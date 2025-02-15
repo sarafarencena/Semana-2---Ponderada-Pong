@@ -70,13 +70,13 @@ A seguir é possível visualizar versão digital da tela do jogo "The Fondue Pon
 ## 5. Reflexão e Aprendizados  
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
 
-    - Aira:
+    - Aira: No início não sabia ao certo como fazer, na verdade não conhecia nem o jogo, mas consegui desenvolver algo legal, então diria que o início foi mais desafiador, depois conseguimos trabalhar em cima da ideia central e o pong foi surgindo.
 
     - Sara: conseguir compartilhar com a Aira a ideia que eu tinha para colocarmos no papel e deixar o nome do jogo de forma visível enquanto mantinha a localização e as cores da tipografia e da calda de chocolate.
 
 2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
 
-    - Aira:
+    - Aira: Aprendi a pensar fora da caixa e deixar a imaginação fluir, construindo uma ideia em dupla, onde cada uma compartilhava sua perspectiva, o que contribuiu para a colaboração. Além disso, foi legal redesenhar/remodelar o desing do canva, sou iniciante ainda nisso, então foi bom colocar em prática. Também tive mais uma experiência no github e em fazer comits em uma atividade coletiva.
 
     - Sara: aprendi a usar elementos de shadow no Canva e a editá-los para dar profundidade a outros elementos da imagem.
 
