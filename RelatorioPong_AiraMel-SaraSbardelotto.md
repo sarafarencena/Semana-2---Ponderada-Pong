@@ -7,7 +7,7 @@
 ---
 
 ## 2. Pesquisa e Análise Inicial  
-&emsp; Mecânica: consiste em duas barras, uma bola e um sistema de pontuação. As barras se movem no eixo y, ou seja, na vertical.
+&emsp; Mecânica: o jogo Pong consiste em duas barras, uma bola e um sistema de pontuação. As barras se movem no eixo y, ou seja, na vertical.
 
 &emsp; Dinâmica: os jogadores controlam as barras para se defender e rebater a bola para atacar, aquele que acerta a área delimitada do oponente pontua.
 
