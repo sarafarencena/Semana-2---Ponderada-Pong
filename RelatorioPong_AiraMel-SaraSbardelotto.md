@@ -38,7 +38,11 @@
 
 </div>
 
-&emsp; O esboço foi desenvolvido a partir de um insight mútuo que tivemos, olhando para um marca-texto rosa pensamos e falamos ao mesmo tempo sobre usarmos um morango - nossa fruta preferida. A partir disso, refletindo sobre o que poderia representar as barras no jogo, decidimos que a temática seria em torno de uma receita de fondue, já que morango e chocolate fazem uma combinação perfeita. Na ideia inicial haviamos adionado o elemento uva como bola também, mas ao refletirmos sobre a mecânica optamos por mantê-la no formato original e usar apenas uma "bola", nesse caso, o morango.
+&emsp; O esboço foi desenvolvido a partir de um insight mútuo que tivemos, olhando para um marca-texto rosa pensamos e falamos ao mesmo tempo sobre usarmos um morango - nossa fruta preferida.
+
+&emsp; A partir disso, refletindo sobre o que poderia representar as barras no jogo, decidimos que a temática seria em torno de uma receita de fondue, já que morango e chocolate fazem uma combinação perfeita.
+
+&emsp; Na ideia inicial haviamos adicionado o elemento uva como bola também, mas ao refletirmos sobre a mecânica optamos por mantê-la no formato original e usar apenas uma "bola", nesse caso, o morango.
 
 ---
 
