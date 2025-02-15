@@ -59,11 +59,13 @@ A seguir é possível visualizar versão digital da tela do jogo "The Fondue Pon
 
 </div>
 
-*- Como o concept foi adaptado para o formato digital?*
 
-*- Quais elementos visuais foram aprimorados?*  
+&emsp; A gente adaptou o pong tradicional para o tema de fondue, assim, trocamos o padle tradicional por barras de chocolate, a bolinha se transformou em um morango e a tela foi divida por um garfo de fondue. Com isso, foi mantido o objetivo do jogo, mas de forma mais dinâmica e divertida.
 
-*- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?*  
+
+&emsp; Optamos por transformar e aprimorar os elementos visuais, adicionando chocolate derretido na borda e a pontuação é marcada por espetinhos de morango com chocolate, o que reforça a ambientação do fondue.
+
+&emsp; O layout seguiu simples, para facilitar a visualização e a jogabilidade, pensamos em usar como cor central o vermelho, o marrom e o rosa, que remetem ao resultado do fondue. Dessa forma, esperamos que o jogador relembre da sensação de deliciar um bom fondue de morango.
 
 ---
 
