@@ -68,15 +68,17 @@
 ---
 
 ## 5. Reflexão e Aprendizados  
-*Cada membro da dupla deve responder individualmente:*  
-
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
+
+    - Aira:
+
+    - Sara: conseguir compartilhar com a Aira a ideia que eu tinha para colocarmos no papel e deixar o nome do jogo de forma visível enquanto mantinha a localização e as cores da tipografia e da calda de chocolate.
+
 2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
 
----
+    - Aira:
 
-## 6. Referências (se houver)  
-Caso tenha utilizado referências externas, inclua aqui as fontes consultadas.  
+    - Sara: aprendi a usar elementos de shadow no Canva e a editá-los para dar profundidade a outros elementos da imagem.
 
 ---
 
