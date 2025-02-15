@@ -22,7 +22,7 @@
 ## 3. Proposta de Reinvenção  
 &emsp; O tema do jogo é **"The Fondue Pong"** e o cenário é representado por um ambiente imaginário de fondue.
 
-&emsp; Os elementos remetem a temática de fondue do jogo, na qual as barras de chocolate representam as barras, o morango representa a bola e os espetinhos de morango representam a pontuação.
+&emsp; Os elementos remetem a temática de fondue do jogo, na qual as barras de chocolate representam as barras, o morango representa a bola, os espetinhos de morango representam a pontuação e o espeto de fondue representa a delimitação entre os dois jogadores.
 
 &emsp; A mecânica continua a mesma da versão original do Pong.
 
