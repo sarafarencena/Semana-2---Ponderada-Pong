@@ -28,7 +28,15 @@
 
 &emsp; Essa versão busca melhorar a experiência do usuário por meio de uma **temática descontraída** que remete ao fondue.
 
-<!-- imagem concept art -->
+<div align="center">
+
+   <sub>Figura 1 - Concept Art do jogo "The Fondue Pong" </sub>
+
+   <img src="concept_art_the_fondue_pong.jpeg" width="70%"> 
+
+   <sup>Fonte: Elaboração própria (2025)</sup>
+
+</div>
 
 &emsp; O esboço foi desenvolvido a partir de um insight mútuo que tivemos, olhando para um marca-texto rosa pensamos e falamos ao mesmo tempo sobre usarmos um morango - nossa fruta preferida. A partir disso, refletindo sobre o que poderia representar as barras no jogo, decidimos que a temática seria em torno de uma receita de fondue, já que morango e chocolate fazem uma combinação perfeita. Na ideia inicial haviamos adionado o elemento uva como bola também, mas ao refletirmos sobre a mecânica optamos por mantê-la no formato original e usar apenas uma "bola", nesse caso, o morango.
 
