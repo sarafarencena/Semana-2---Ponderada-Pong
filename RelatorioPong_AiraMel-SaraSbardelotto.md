@@ -2,7 +2,7 @@
 
 
 ## 1. Introdução  
-&emsp; Nessa atividade tivemos como objetivo recriar o design do Jogo Pong. Para isso, utilizamos a receita de fondue como proposta criativa, exercitando e aplicando os conceitos de Framework MDA, Concept Art e Game Design.
+&emsp; Nessa atividade tivemos como objetivo recriar o design do Jogo Pong. Para isso, utilizamos a receita de fondue como proposta criativa, exercitando e aplicando os conceitos de Framework MDA, Concept Art e Game Design, o que nos permitiu criar o **"The Fondue Pong"**.
  
 ---
 
