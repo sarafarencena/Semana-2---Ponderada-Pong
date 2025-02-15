@@ -2,7 +2,7 @@
 
 
 ## 1. Introdução  
-*Descreva brevemente o objetivo da atividade, mencionando a proposta de reinvenção do jogo Pong e a abordagem escolhida pela dupla.*
+&emsp; Nessa atividade tivemos como objetivo recriar o design do Jogo Pong. Para isso, utilizamos a receita de fondue como proposta criativa, exercitando e aplicando os conceitos de Framework MDA, Concept Art e Game Design.
  
 ---
 
