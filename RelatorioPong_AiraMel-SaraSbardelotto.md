@@ -20,17 +20,17 @@
 ---
 
 ## 3. Proposta de Reinvenção  
-*Explique as mudanças propostas para a nova versão do **Pong**, detalhando:*  
+&emsp; O tema do jogo é **"The Fondue Pong"** e o cenário é representado por um ambiente imaginário de fondue.
 
-*- **Tema e Ambientação:** Qual é o novo contexto do jogo?*
+&emsp; Os elementos remetem a temática de fondue do jogo, na qual as barras de chocolate representam as barras, o morango representa a bola e os espetinhos de morango representam a pontuação.
 
-*- **Personagens ou Elementos Visuais:** Se houver personagens ou variações visuais, descreva.*
+&emsp; A mecânica continua a mesma da versão original do Pong.
 
-*- **Mudanças na Mecânica:** Houve alguma alteração nas regras ou na forma de jogar?*
+&emsp; Essa versão busca melhorar a experiência do usuário por meio de uma **temática descontraída** que remete ao fondue.
 
-*- **Objetivo da Reinvenção:** O que a nova versão pretende explorar ou melhorar em relação ao original?*
+<!-- imagem concept art -->
 
-*Inclua aqui um **rascunho da Folha de Concept Art** e uma explicação sobre como o esboço foi desenvolvido.*
+&emsp; O esboço foi desenvolvido a partir de um insight mútuo que tivemos, olhando para um marca-texto rosa pensamos e falamos ao mesmo tempo sobre usarmos um morango - nossa fruta preferida. A partir disso, refletindo sobre o que poderia representar as barras no jogo, decidimos que a temática seria em torno de uma receita de fondue, já que morango e chocolate fazem uma combinação perfeita. Na ideia inicial haviamos adionado o elemento uva como bola também, mas ao refletirmos sobre a mecânica optamos por mantê-la no formato original e usar apenas uma "bola", nesse caso, o morango.
 
 ---
 
