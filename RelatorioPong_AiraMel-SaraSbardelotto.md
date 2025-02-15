@@ -47,7 +47,17 @@
 ---
 
 ## 4. Tela Digital do Jogo  
-*Adicione aqui a **imagem da tela digital finalizada** ou o **link para o arquivo**.*  
+<!-- textinho antes das imagem -->
+
+<div align="center">
+
+   <sub>Figura 2 - Tela Digital do jogo "The Fondue Pong" </sub>
+
+   <img src="tela_digital_the_fondue_pong.png" width="70%"> 
+
+   <sup>Fonte: Elaboração própria (2025)</sup>
+
+</div>
 
 *- Como o concept foi adaptado para o formato digital?*
 
