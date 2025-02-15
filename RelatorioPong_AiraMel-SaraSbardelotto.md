@@ -59,7 +59,6 @@ A seguir é possível visualizar versão digital da tela do jogo "The Fondue Pon
 
 </div>
 
-
 &emsp; A gente adaptou o pong tradicional para o tema de fondue, assim, trocamos o padle tradicional por barras de chocolate, a bolinha se transformou em um morango e a tela foi divida por um garfo de fondue. Com isso, foi mantido o objetivo do jogo, mas de forma mais dinâmica e divertida.
 
 
@@ -80,7 +79,7 @@ A seguir é possível visualizar versão digital da tela do jogo "The Fondue Pon
 
     - Aira: Aprendi a pensar fora da caixa e deixar a imaginação fluir, construindo uma ideia em dupla, onde cada uma compartilhava sua perspectiva, o que contribuiu para a colaboração. Além disso, foi legal redesenhar/remodelar o desing do canva, sou iniciante ainda nisso, então foi bom colocar em prática. Também tive mais uma experiência no github e em fazer comits em uma atividade coletiva.
 
-    - Sara: aprendi a usar elementos de shadow no Canva e a editá-los para dar profundidade a outros elementos da imagem.
+    - Sara: aprendi a usar elementos de shadow no Canva e a editá-los para dar profundidade a outros elementos da imagem, além de praticar um pouco mais a elaboração de documentação.
 
 ---
 
