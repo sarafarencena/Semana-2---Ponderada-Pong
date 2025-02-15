@@ -7,7 +7,15 @@
 ---
 
 ## 2. Pesquisa e Análise Inicial  
-*Explique as principais características do **jogo original Pong**, considerando os três elementos do **Framework MDA** e responda: o que torna Pong um jogo envolvente e jogável? Quais são seus **elementos principais de diversão e desafio**?*
+&emsp; Mecânica: consiste em duas barras, uma bola e um sistema de pontuação. As barras se movem no eixo y, ou seja, na vertical.
+
+&emsp; Dinâmica: os jogadores controlam as barras para se defender e rebater a bola para atacar, aquele que acerta a área delimitada do oponente pontua.
+
+&emsp; Estética: é inspirada, de forma simplificada, no esporte de tênis.
+
+&emsp; O Pong é um jogo envolvente e jogável justamente por seu MDA simples e intuitivo, além da sensação de competitividade.
+
+&emsp; Os elementos principais de diversão e desafio são as barras e a bola, pois com as barras os jogadores movimentam a bola de forma imprevisível e competitiva um para o outro.
 
 ---
 
