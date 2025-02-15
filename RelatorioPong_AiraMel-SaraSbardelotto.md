@@ -47,7 +47,7 @@
 ---
 
 ## 4. Tela Digital do Jogo  
-<!-- textinho antes das imagem -->
+A seguir é possível visualizar versão digital da tela do jogo "The Fondue Pong".
 
 <div align="center">
 
